@@ -6,6 +6,7 @@ namespace TPMod3_103022300017
         {
             InitializeComponent();
         }
+
         private void button1_Click(object sender, EventArgs e)
         {
             String text = textBox1.Text;
